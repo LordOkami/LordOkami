@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Sebastián Huerta</h1>
-<h3 align="center">Principal Software Engineer at Gamelearn</h3>
+<h3 align="center">Senior Software Engineering Manager at Gamelearn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordokami&label=Profile%20views&color=0e75b6&style=flat" alt="lordokami" /> </p>
 
